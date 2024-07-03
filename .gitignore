@@ -1,3 +1,5 @@
 *.idea
+*deviations_model.iml
 *venv
 *__pycache__
+*.ipynb_checkpoints
